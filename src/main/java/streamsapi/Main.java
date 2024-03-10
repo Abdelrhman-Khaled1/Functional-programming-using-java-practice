@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        
+
         List<Person> people = getPeople();
 
         //Imperative approach
